@@ -8,7 +8,7 @@ Built using **HTML**, **Tailwind CSS**, **JavaScript**, and **AOS.js** for stunn
 
 ## 🚀 Live Preview
 
-🔗 **Demo Link:** [https://yourusername.github.io/melisha-portfolio/](https://yourusername.github.io/melisha-portfolio/)
+🔗 **Demo Link:** [https://yourusername.github.io/melisha-portfolio/](https://melisha2904.github.io/portfolio_website_from_scratch/)
 
 🖼️ **Screenshot Preview:**
 
