@@ -31,7 +31,14 @@ Built using **HTML**, **Tailwind CSS**, **JavaScript**, and **AOS.js** for stunn
 ---
 
 ## 📁 Folder Structure
-
+melisha-portfolio/
+│
+├── index.html # Main HTML file
+├── melisha.jpg # Profile image
+├── bell.mp3 # Click sound effect
+├── hello.mp3 # Hover sound effect
+├── melisha_resume.pdf # Resume file (optional)
+└── README.md # This file
 
 ---
 
