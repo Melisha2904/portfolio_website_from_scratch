@@ -12,8 +12,8 @@ Built using **HTML**, **Tailwind CSS**, **JavaScript**, and **AOS.js** for stunn
 
 🖼️ **Screenshot Preview:**
 
-![Portfolio Screenshot](https://user-images.githubusercontent.com/your-username/your-repo/preview.png)  
-> *(Replace the link above with your actual screenshot once uploaded)*
+![Portfolio Screenshot](https://github.com/Melisha2904/portfolio_website_from_scratch/blob/main/web_screenshot.png)  
+
 
 ---
 
